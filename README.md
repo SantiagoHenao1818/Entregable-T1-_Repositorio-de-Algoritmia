@@ -7,7 +7,7 @@ Este repositorio centraliza los proyectos, ejercicios de lógica y código fuent
 ## 🌐 Interfaz Web (Landing Page)
 Por motivos de **orden, visualización y comodidad para la revisión del Team Leader (TL)**, se implementó una página web minimalista en HTML y CSS nativo que actúa como **Hub central**. Desde allí se puede acceder de forma directa y limpia a todo el contenido del repositorio sin enredos.
 
-* **Enlace de la página en vivo:** [Ver Landing Page en GitHub Pages](https://santiagohenao1818.github.io/Entregable-T1-_Repositorio-de-Algoritmia/))](https://santiagohenao1818.github.io/Entregable-T1-_Repositorio-de-Algoritmia/) *(Reemplaza este enlace con tu URL real de GitHub Pages)*
+* **Enlace de la página en vivo:** [Ver Landing Page en GitHub Pages](https://santiagohenao1818.github.io/Entregable-T1-_Repositorio-de-Algoritmia/))](https://santiagohenao1818.github.io/Entregable-T1-_Repositorio-de-Algoritmia/)
 
 ---
 
